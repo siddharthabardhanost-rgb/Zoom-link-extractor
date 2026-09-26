@@ -1,0 +1,6 @@
+{
+  "name": "Zoom Transcript Link Extractor",
+  "description": "Extracts URLs from Zoom session TXT transcripts and generates a downloadable document with links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
